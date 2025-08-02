@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification - ML Project
+# 🌸 Iris Flower Classification - Basic ML Project 
 
 ## 🧠 Project Overview
 This project uses Scikit-learn's built-in Iris dataset to predict the species of iris flower using petal and sepal dimensions.
